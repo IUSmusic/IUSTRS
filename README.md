@@ -1,6 +1,9 @@
 
 # Live Music Transcription App
 
+**Demo Version:**
+https://iusmusic.github.io/TRS-Demo/
+
 Local web app for capturing live musical input from microphone or MIDI, turning it into note events, previewing the result as notation, and exporting the session for downstream use.
 
 This project is organized as a small TypeScript monorepo with a React + Vite frontend and shared packages for audio capture, MIDI handling, transcription logic, music theory helpers, score rendering, and exporters.
