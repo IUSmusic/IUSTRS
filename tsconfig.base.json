@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+    "moduleResolution": "Bundler",
+    "allowImportingTsExtensions": false,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "strict": true,
+    "baseUrl": ".",
+    "paths": {
+      "@ius/shared-types": ["packages/shared-types/src"],
+      "@ius/audio-engine": ["packages/audio-engine/src"],
+      "@ius/midi-engine": ["packages/midi-engine/src"],
+      "@ius/transcription-engine": ["packages/transcription-engine/src"],
+      "@ius/music-theory": ["packages/music-theory/src"],
+      "@ius/score-renderer": ["packages/score-renderer/src"],
+      "@ius/exporters": ["packages/exporters/src"]
+    }
+  }
+}
