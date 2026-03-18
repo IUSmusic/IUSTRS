@@ -1,4 +1,8 @@
 
+<a href="LICENSE">
+  <img src="images/license-badge.png" alt="License badge" width="70">
+</a>
+
 # Live Music Transcription App
 
 **Demo Version:**
@@ -156,3 +160,6 @@ I/US Music
 
 For licensing requests, commercial rights, redistribution requests, or permission to use protected brand assets, prior written permission must be obtained from I/US Music.
 
+<a href="LICENSE">
+  <img src="images/license-badge.png" alt="License badge" width="70">
+</a>
